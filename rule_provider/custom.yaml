@@ -4,3 +4,6 @@ payload:
   - DOMAIN-KEYWORD,kisscdn
   - DOMAIN-KEYWORD,anime
   - DOMAIN-KEYWORD,img
+  - PROCESS-NAME,us.spotco.fennec_dos
+  - PROCESS-NAME,eu.kanade.tachiyomi.sy
+  - PROCESS-NAME,xyz.jmir.tachiyomi.mi
