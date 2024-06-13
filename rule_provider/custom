@@ -2,3 +2,5 @@
 payload:
   - DOMAIN-KEYWORD,manga
   - DOMAIN-KEYWORD,kisscdn
+  - DOMAIN-KEYWORD,anime
+  - DOMAIN-KEYWORD,img
