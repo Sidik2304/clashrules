@@ -2,6 +2,7 @@
 payload:
   - DOMAIN-KEYWORD,manga
   - DOMAIN-KEYWORD,kisscdn
+  - DOMAIN-KEYWORD,xfspp
   - DOMAIN-KEYWORD,anime
   - DOMAIN-KEYWORD,img
   - PROCESS-NAME,eu.kanade.tachiyomi.sy
