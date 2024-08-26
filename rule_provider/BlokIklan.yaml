@@ -108,15 +108,20 @@ payload:
   - DOMAIN-KEYWORD,ancznewozw
   - DOMAIN-KEYWORD,warkop4dx
   - DOMAIN-KEYWORD,bonus33
+  #komiktp
+  - DOMAIN-KEYWORD,gacor.zone
+  - DOMAIN-KEYWORD,gacor.vip
+  - DOMAIN-KEYWORD,gacor.vin
   #sektekomik
   - DOMAIN-KEYWORD,phouwims
   #manhwa net
   - DOMAIN-KEYWORD,ber2g8e3keley
   #kiryuu
-  - DOMAIN-SUFFIX,388herobest.com
-  - DOMAIN-SUFFIX,redirect388herosafest.com
-  - DOMAIN-SUFFIX,388hero178.com
+  - DOMAIN-KEYWORD,388herobest
+  - DOMAIN-KEYWORD,redirect388herosafest
+  - DOMAIN-KEYWORD,388hero178
   - DOMAIN-SUFFIX,bwsgmm.com
+  - DOMAIN-KEYWORD,388hero
   #d3ward.github.io
   - DOMAIN-KEYWORD,adtago.s3.amazonaws.com
   - DOMAIN-KEYWORD,advice-ads.s3.amazonaws.com
