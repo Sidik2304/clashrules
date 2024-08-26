@@ -5,5 +5,4 @@ payload:
   - DOMAIN-KEYWORD,xfspp
   - DOMAIN-KEYWORD,anime
   - DOMAIN-KEYWORD,img
-  - PROCESS-NAME,eu.kanade.tachiyomi.sy
-  - PROCESS-NAME,xyz.jmir.tachiyomi.mi
+  - PROCESS-NAME-REGEX,*tachiyomi.*
