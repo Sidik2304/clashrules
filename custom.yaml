@@ -5,4 +5,4 @@ payload:
   - DOMAIN-KEYWORD,xfspp
   - DOMAIN-KEYWORD,anime
   - DOMAIN-KEYWORD,img
-  - PROCESS-NAME-REGEX,*tachiyomi.*
+  - PROCESS-NAME-REGEX,.*tachiyomi.*
