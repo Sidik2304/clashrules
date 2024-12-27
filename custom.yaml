@@ -2,12 +2,9 @@
 payload:
   - DOMAIN-KEYWORD,manga
   - DOMAIN-KEYWORD,kisscdn
-  - DOMAIN-KEYWORD,xfspp
-  - DOMAIN-KEYWORD,anime
-  - DOMAIN-KEYWORD,img
-  - DOMAIN-KEYWORD,.comick.
+  - DOMAIN-KEYWORD,comick.
   - DOMAIN-KEYWORD,.mangadex.
   - DOMAIN-KEYWORD,.mpubn.
-  - DOMAIN-KEYWORD,.mangahere.
+  - DOMAIN-KEYWORD,mangahere.
   - DOMAIN-KEYWORD,.manga
   - PROCESS-NAME-REGEX,.*tachiyomi.*
