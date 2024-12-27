@@ -1,7 +1,9 @@
 #costum
 payload:
   - DOMAIN-KEYWORD,manga
-  - DOMAIN-KEYWORD,kisscdn
+  - DOMAIN-KEYWORD,kisskh.
+  - DOMAIN-KEYWORD,.fastcdn
+  - DOMAIN-KEYWORD,ykimg.
   - DOMAIN-KEYWORD,comick.
   - DOMAIN-KEYWORD,mangadex.
   - DOMAIN-KEYWORD,mpubn.
