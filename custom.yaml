@@ -5,17 +5,8 @@ payload:
   - DOMAIN-KEYWORD,.fastcdn
   - DOMAIN-KEYWORD,ykimg.
   - DOMAIN-KEYWORD,comick.
-  - DOMAIN-KEYWORD,mangadex.
-  - DOMAIN-KEYWORD,mpubn.
-  - DOMAIN-KEYWORD,mpfip.
-  - DOMAIN-KEYWORD,mpypl.
-  - DOMAIN-KEYWORD,mpujj.
-  - DOMAIN-KEYWORD,mpizz.
-  - DOMAIN-KEYWORD,mprnm.
-  - DOMAIN-KEYWORD,mpmok.
-  - DOMAIN-KEYWORD,mpmok.
-  - DOMAIN-KEYWORD,mpvim.
-  - DOMAIN-KEYWORD,mpqom.
+  - DOMAIN-KEYWORD,mangadex
+  - DOMAIN-REGEX,.mp*.org
   - DOMAIN-KEYWORD,mangahere.
   - DOMAIN-KEYWORD,.manga
   - PROCESS-NAME-REGEX,.*tachiyomi.*
