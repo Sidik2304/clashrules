@@ -1,5 +1,6 @@
 #costum
 payload:
+  - AND,((GEOSITE,oisd-nsfw),(GEOSITE,category-porn))
   - DOMAIN-KEYWORD,manga
   - DOMAIN-KEYWORD,kisskh.
   - DOMAIN-KEYWORD,.fastcdn
