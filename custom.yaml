@@ -13,6 +13,9 @@ payload:
   - DOMAIN-KEYWORD,mpizz.
   - DOMAIN-KEYWORD,mprnm.
   - DOMAIN-KEYWORD,mpmok.
+  - DOMAIN-KEYWORD,mpmok.
+  - DOMAIN-KEYWORD,mpvim.
+  - DOMAIN-KEYWORD,mpqom
   - DOMAIN-KEYWORD,mangahere.
   - DOMAIN-KEYWORD,.manga
   - PROCESS-NAME-REGEX,.*tachiyomi.*
