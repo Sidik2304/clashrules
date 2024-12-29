@@ -7,7 +7,7 @@ payload:
   - DOMAIN-KEYWORD,ykimg.
   - DOMAIN-KEYWORD,comick.
   - DOMAIN-KEYWORD,mangadex
-  - DOMAIN-REGEX,.mp[a-z]{};':"\\|,.<>\/?]{3}.org
+  - DOMAIN-REGEX,.mp[a-z]{3}.org
   - DOMAIN-KEYWORD,mangahere.
   - DOMAIN-KEYWORD,.manga
   - PROCESS-NAME-REGEX,.*tachiyomi.*
